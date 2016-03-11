@@ -13,4 +13,11 @@ groups:
     youtube: https://www.youtube.com/user/StoneBlueAirlines
     website: http://www.stoneblueairlines.com/
     facebook_group: https://www.facebook.com/groups/873948302679761/
+  - name: CvilleFPV
+    meetup: http://www.meetup.com/CvilleFPV/
+    facebook: https://www.facebook.com/cvillefpv/
+    twitter: https://twitter.com/CvilleFpv
+    website: http://www.cvillefpv.com/
+  - name: Roanoke Rotor Racers
+    facebook: https://www.facebook.com/RoanokeRotorRacers
     
